@@ -1,2 +1,0 @@
-# DockerApp
-Django
